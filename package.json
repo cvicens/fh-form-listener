@@ -1,0 +1,14 @@
+{
+  "name": "fh-form-listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/listener.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fh-mbaas-api": "^6.1.5"
+  }
+}
