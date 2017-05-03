@@ -1,6 +1,6 @@
 {
   "name": "fh-form-listener",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "./lib/listener.js",
   "scripts": {
